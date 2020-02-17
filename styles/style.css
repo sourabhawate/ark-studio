@@ -1,0 +1,173 @@
+body{
+       padding:0;
+       margin:0;
+}
+#nav_list {
+    list-style-type: none;
+    float:right;
+  
+}
+.nav_bar{
+    background-color:rgba(141,124,124,0.7);
+    height:70px;
+    width:100%;
+    margin-top:0;
+    padding-top:0;
+    position:fixed;
+    overflow: hidden;
+
+}
+li{
+    display:inline;
+}
+a{
+    text-decoration: none;
+    color:blue;
+    padding:14px 16px;
+}
+.logo-img{
+    float:left;
+    height:40px;
+    width:60px;
+    padding:10px 16px;
+    margin-left:40px;
+    
+}
+#back-img
+{
+    background-color: #cccc;
+    height:850px;
+    width:100%;
+    position:absolute;
+    margin-top: 10px;
+}
+.cta{
+    background-color: rgba(141, 124, 124, 0.7);
+    position:absolute;
+    margin-top:790px;
+    width:100%;
+    height:70px;
+    
+}
+#cta_text{
+    font-size-30px;
+    float:left;
+    padding-left:10px;
+    padding-top:15px;
+    padding-bottom:35px;
+}
+#cta_link{
+    float:right;
+    font-size:30px;
+    padding-top:15px;
+    padding-bottom:35px;
+
+} 
+a:hover{
+    background-color: red;
+} 
+.services {
+    position:absolute;
+    background-color: white;
+    margin-top:1000px;
+    width:100%;
+}
+.swheading{
+    font-weight: bold;
+    text-align: center;
+}
+.li1{
+    display:inline;
+    float:left;
+    padding-left:15px;
+    padding-right:15px;
+    margin-left:100px;
+}
+.liimg{
+    height:90px;
+    width:90px;
+    margin-left:70px;
+    padding-top:100px;
+    padding-bottom:50px;
+}
+.recent_work{
+    height:400px;
+    width:100%;
+    padding-top:100px;
+}
+.rw-img{
+    display:inline;
+    float:left;
+    width:20%;
+    height:400px;
+    margin-top:1500px;
+    padding-bottom:150px;
+}
+.testimonials wrapper{
+    text-align: center;
+    padding-top:80px;
+}
+.test{
+    text-align: center;
+    display:inline;
+    float:left;
+    padding:200px 80px 0; 
+}
+.testimg{
+    width:50px;
+    height:50px;
+ 
+}
+.footer_widget{
+    position: absolute;
+    display: block;
+    height: 300px;
+    width: 1099px;
+    margin-top: 500px;
+    background-color:rgb(51, 51, 51);
+    padding-left: 250px;
+    color: white;
+    text-align: left;
+  }
+  .footer{
+    float: left;
+    text-align: left;
+    margin: 50px 0;
+    height: 250px;
+    width: 20%;
+  }
+  .loc-img{
+    height: 20px;
+    width: 20px;
+    float: left;
+    padding: 0 2%;
+    background-color: white;
+  }
+  #comp_list{
+    margin: 0;
+    padding: 0;
+  }
+  #comp_list a{
+    color:white;
+  }
+  #comp_list li{
+    padding: 5px 0;
+  }
+  #sup_list{
+    margin: 0;
+    padding: 0;
+  }
+  #sup_list a{
+    color:white;
+  }
+  #sup_list li{
+    padding: 5px 0;
+  }
+  .rights{
+    position: absolute;
+    display: block;
+    margin-top: 780px;
+    color: white;
+    padding-left: 40%;
+  }
+   
